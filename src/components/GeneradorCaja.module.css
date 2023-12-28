@@ -1,0 +1,24 @@
+.general{
+    display: flex;
+    flex-direction: column; /* Orientación de columna para apilar elementos verticalmente */
+    align-items: center;
+    justify-content:center;
+}
+
+input{
+    margin:  20px;
+    width: 180px;
+    height: 28px;
+    background-color: rgba(170, 170, 170, 0.301);
+    border: none;
+    
+}
+
+button{
+    width: 80px;
+    height: 28px; 
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    
+
+}
